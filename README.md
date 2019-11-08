@@ -1,2 +1,2 @@
 # C-Exercises
-C++ Practice exercises
+C++ Practice exercises source code
